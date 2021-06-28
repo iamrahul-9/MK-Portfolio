@@ -770,10 +770,6 @@ about section
     text-align: center;
 }
 
-.about-section .skills .tab-content {
-    margin-bottom: 0px;
-}
-
 /***.about-section .skills .skill-item .progress {
     height: 20px;
     border-radius: 10px;
